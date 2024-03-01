@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Denis 
+- 👀 I’m interested in Netwrking programing and website creating
+- 🌱 I’m currently learning C++,Python
